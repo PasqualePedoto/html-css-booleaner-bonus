@@ -1,0 +1,118 @@
+#container{
+    height: auto;
+    width: 1000px;
+    background-position: center center;
+    margin: 0 auto;
+}
+
+#header{
+    height: 100px;
+    width: auto;
+    background-image: url('img/pattern.png');
+    background-repeat: repeat;
+    background-size: contain;
+    background-color: dodgerblue;
+}
+
+#boolean{
+    height: 120px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 3px;
+}
+
+#author{
+    color: rgb(150, 150, 150);
+    margin: 0;
+    font-weight: bold;
+}
+
+#society{
+    color: dodgerblue;
+}
+
+#date{
+    color: rgb(150, 150, 150);
+    margin: 0;
+    font-size: 11px;
+}
+
+.photo{
+    height: 400px;
+    width: 450px;
+    margin-top: 10px;
+}
+
+.didascalia{
+    margin: 0;
+    font-size: 10px;
+}
+
+figure{
+    margin: 0;
+}
+
+.text{
+    background-color: yellow;
+}
+
+ul{
+    padding-inline-start: 15px;
+
+}
+
+table{
+    margin-top: 10px;
+    border-spacing: 0;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.first-second{
+    width: 25%;
+}
+
+.third{
+    width: 45%;
+}
+
+.row{
+    background-color: #1ddeed;
+}
+
+h3{
+    color: #9d9797;
+}
+
+#image1{
+    background-image: url('img/monitor.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 10px;
+}
+
+#image2{
+    background-image: url('img/graph.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 10px;
+}
+
+.txt-figure{
+    font-size: 22px;
+    color: white;
+    margin: 20px;
+
+}
